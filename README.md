@@ -1,9 +1,15 @@
 
-# Ejemplo de Readme 
+# Ejemplo de README Unida Python
 
-A brief description of what this project does and who it's for
+Esto es un ejemplo de como se ve un README
 
-
+Curso Python Express
 ## 🛠 Skills
-python amateur
+Python "Expert"...
+
+## Como se subir el servicio
+
+```
+python main.py
+```
 
